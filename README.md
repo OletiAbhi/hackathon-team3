@@ -38,8 +38,8 @@ Follow these steps to view and run the portal on your system:
 
 ### Why This Structure Works
 
-- Easy to track records.[5]
-- Home page delivers a quick summary and direct paths to process management, useful for engineers and managers.[1]
+- Easy to track records.
+- Home page delivers a quick summary and direct paths to process management, useful for engineers and managers.
 
 ## License
 
