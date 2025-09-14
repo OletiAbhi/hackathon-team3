@@ -1,4 +1,4 @@
-# hackathon-team3
+ # hackathon-team3
 ***
 
 # MES Portal Front-End
@@ -27,14 +27,14 @@ Follow these steps to view and run the portal on your system:
 
 ## Website Structure
 
-- **Homepage (`openpage.html`)**  
-  Shows overview/statistics of your manufacturing workflow.
-- **Process Management Pages**  
-  Organized pages for process steps, progress visualization, and team tasks.
-- **Navigation**  
-  Clean, simple menu for moving between Overview, Processes, Analytics, and Team pages.
-- **Modern Visuals**  
-  Icons and progress bars help users quickly understand the current status.
+- **login page(`openpage.html`)**  
+  login for both user and supervisor.
+- **user page**  
+  user can see his tasks in that page and track his work by using start or stop buttons and can check the status that supervisor approved his work or not.
+- **operator page**  
+  operator will get the list of the tasks and he can the entries of the task.
+- **entities page**  
+  accessed by the superviser after clicking entiries button he will get the worker names, duration , and he can approve the task or reject the task in one click.
 
 ### Why This Structure Works
 
