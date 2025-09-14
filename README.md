@@ -1,7 +1,4 @@
 # hackathon-team3
-MES PORTAL
-Here is a clear, professional README for the MES Portal front-end pages, guiding users to set up and view the project in Visual Studio. It also briefly explains the website structure for managing manufacturing processes.[11][12][13]
-
 ***
 
 # MES Portal Front-End
